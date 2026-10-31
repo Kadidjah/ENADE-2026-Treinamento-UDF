@@ -3,7 +3,7 @@
 **Preparatório ENADE 2026 | UDF**  
 **Cursos:** Sistemas de Informação, Ciência da Computação e Análise e Desenvolvimento de Sistemas (ADS)  
 **Docente:** Profª Kadidja Valéria  
-**Duração:** 60 minutos | **Data:** a confirmar
+**Duração:** 60 minutos | **Data:** 31/10/2026
 
 > **Nota:** questões autorais de treinamento, inspiradas em competências da área, não reproduções de itens oficiais do ENADE.
 
